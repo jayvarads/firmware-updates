@@ -5,10 +5,16 @@
     "download_url": "https://github.com/jayvarads/firmware-updates/releases/download/1.0/sol_2.1.3.0.update",
     "release_notes_url": ""
   },
+  "Solution_2100_3100": {
+    "latest_version": "v1.0.9.0",
+    "filename": "sol31_1090.update",
+    "download_url": "https://github.com/jayvarads/firmware-updates/releases/download/1.0/sol31_1090.update",
+    "release_notes_url": ""
+  },
   "Solution_4000_4100": {
-    "latest_version": "v1.1.0",
-    "filename": "sol4_110.update",
-    "download_url": "https://github.com/jayvarads/firmware-updates/releases/download/1.0/sol4_110.update",
+    "latest_version": "v1.0.9.0",
+    "filename": "sol41_1090.update",
+    "download_url": "https://github.com/jayvarads/firmware-updates/releases/download/1.0/sol41_1090.update",
     "release_notes_url": ""
   },
   "B_Series": {
@@ -27,6 +33,12 @@
     "latest_version": "v3.15.232",
     "filename": "B426M_3.15.232.kfw",
     "download_url": "https://github.com/jayvarads/firmware-updates/releases/download/1.0/B426M_3.15.232.kfw",
+    "release_notes_url": ""
+  },
+  "Module_B428_M": {
+    "latest_version": "v0.09.011",
+    "filename": "B428M_0.09.011.kfw",
+    "download_url": "https://github.com/jayvarads/firmware-updates/releases/download/1.0/B428M_0.09.011.kfw",
     "release_notes_url": ""
   }
 }
