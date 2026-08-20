@@ -36,9 +36,9 @@
     "release_notes_url": ""
   },
   "Module_B428_M": {
-    "latest_version": "v0.09.011",
-    "filename": "B428M_0.09.011.kfw",
-    "download_url": "https://github.com/jayvarads/firmware-updates/releases/download/1.0/B428M_0.09.011.kfw",
+    "latest_version": "v0.09.014",
+    "filename": "B428M_0.09.014.kfw",
+    "download_url": "https://github.com/jayvarads/firmware-updates/releases/download/1.0/B428M_0.09.014.kfw",
     "release_notes_url": ""
   }
 }
